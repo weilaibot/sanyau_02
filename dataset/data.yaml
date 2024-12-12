@@ -1,0 +1,7 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 10
+names: ['Tomato Early blight leaf', 'Tomato Septoria spot leaf', 'Tomato bacterial spot leaf', 'Tomato healthy leaf', 'Tomato late blight leaf', 'Tomato mold leaf', 'Tomato mosaic virus leaf', 'Tomato spider mites leaf', 'Tomato target spot leaf', 'Tomato yellow virus leaf']
+
