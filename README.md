@@ -1,1 +1,1 @@
-Tomato leaf disease data set
+Tomato leaf disease dataset
